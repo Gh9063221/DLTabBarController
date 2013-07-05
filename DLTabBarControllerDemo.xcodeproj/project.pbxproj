@@ -16,6 +16,8 @@
 		B546EE641786857F00A94295 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE631786857F00A94295 /* Default.png */; };
 		B546EE661786857F00A94295 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE651786857F00A94295 /* Default@2x.png */; };
 		B546EE681786857F00A94295 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE671786857F00A94295 /* Default-568h@2x.png */; };
+		B546EE701786868400A94295 /* DLTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE6F1786868400A94295 /* DLTabBarController.m */; };
+		B546EE73178686A300A94295 /* DLTabBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE72178686A300A94295 /* DLTabBarView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,10 @@
 		B546EE631786857F00A94295 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		B546EE651786857F00A94295 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		B546EE671786857F00A94295 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B546EE6E1786868400A94295 /* DLTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLTabBarController.h; sourceTree = "<group>"; };
+		B546EE6F1786868400A94295 /* DLTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLTabBarController.m; sourceTree = "<group>"; };
+		B546EE71178686A300A94295 /* DLTabBarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLTabBarView.h; sourceTree = "<group>"; };
+		B546EE72178686A300A94295 /* DLTabBarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLTabBarView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +57,10 @@
 		B546EE451786857E00A94295 = {
 			isa = PBXGroup;
 			children = (
+				B546EE71178686A300A94295 /* DLTabBarView.h */,
+				B546EE72178686A300A94295 /* DLTabBarView.m */,
+				B546EE6E1786868400A94295 /* DLTabBarController.h */,
+				B546EE6F1786868400A94295 /* DLTabBarController.m */,
 				B546EE571786857F00A94295 /* DLTabBarControllerDemo */,
 				B546EE501786857F00A94295 /* Frameworks */,
 				B546EE4F1786857F00A94295 /* Products */,
@@ -167,6 +177,8 @@
 			files = (
 				B546EE5E1786857F00A94295 /* main.m in Sources */,
 				B546EE621786857F00A94295 /* DLAppDelegate.m in Sources */,
+				B546EE701786868400A94295 /* DLTabBarController.m in Sources */,
+				B546EE73178686A300A94295 /* DLTabBarView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
