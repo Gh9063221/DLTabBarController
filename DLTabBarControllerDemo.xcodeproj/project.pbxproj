@@ -18,6 +18,27 @@
 		B546EE681786857F00A94295 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE671786857F00A94295 /* Default-568h@2x.png */; };
 		B546EE701786868400A94295 /* DLTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE6F1786868400A94295 /* DLTabBarController.m */; };
 		B546EE73178686A300A94295 /* DLTabBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE72178686A300A94295 /* DLTabBarView.m */; };
+		B546EE8017868A0F00A94295 /* tabbutton1_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7617868A0F00A94295 /* tabbutton1_pressed.png */; };
+		B546EE8117868A0F00A94295 /* tabbutton1.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7717868A0F00A94295 /* tabbutton1.png */; };
+		B546EE8217868A0F00A94295 /* tabbutton2_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7817868A0F00A94295 /* tabbutton2_pressed.png */; };
+		B546EE8317868A0F00A94295 /* tabbutton2.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7917868A0F00A94295 /* tabbutton2.png */; };
+		B546EE8417868A0F00A94295 /* tabbutton3_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7A17868A0F00A94295 /* tabbutton3_pressed.png */; };
+		B546EE8517868A0F00A94295 /* tabbutton3.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7B17868A0F00A94295 /* tabbutton3.png */; };
+		B546EE8617868A0F00A94295 /* tabbutton4_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7C17868A0F00A94295 /* tabbutton4_pressed.png */; };
+		B546EE8717868A0F00A94295 /* tabbutton4.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7D17868A0F00A94295 /* tabbutton4.png */; };
+		B546EE8817868A0F00A94295 /* tabbutton5_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7E17868A0F00A94295 /* tabbutton5_pressed.png */; };
+		B546EE8917868A0F00A94295 /* tabbutton5.png in Resources */ = {isa = PBXBuildFile; fileRef = B546EE7F17868A0F00A94295 /* tabbutton5.png */; };
+		B546EE8C17868A2700A94295 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE8B17868A2700A94295 /* RootViewController.m */; };
+		B546EE9017869BB100A94295 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE8E17869BB100A94295 /* FirstViewController.m */; };
+		B546EE9117869BB100A94295 /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B546EE8F17869BB100A94295 /* FirstViewController.xib */; };
+		B546EE9517869BBE00A94295 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE9317869BBE00A94295 /* SecondViewController.m */; };
+		B546EE9617869BBE00A94295 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B546EE9417869BBE00A94295 /* SecondViewController.xib */; };
+		B546EE9A17869BC700A94295 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE9817869BC700A94295 /* ThirdViewController.m */; };
+		B546EE9B17869BC700A94295 /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B546EE9917869BC700A94295 /* ThirdViewController.xib */; };
+		B546EE9F17869BD000A94295 /* ForthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EE9D17869BD000A94295 /* ForthViewController.m */; };
+		B546EEA017869BD000A94295 /* ForthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B546EE9E17869BD000A94295 /* ForthViewController.xib */; };
+		B546EEA417869BD600A94295 /* FifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B546EEA217869BD600A94295 /* FifthViewController.m */; };
+		B546EEA517869BD600A94295 /* FifthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B546EEA317869BD600A94295 /* FifthViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +59,34 @@
 		B546EE6F1786868400A94295 /* DLTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLTabBarController.m; sourceTree = "<group>"; };
 		B546EE71178686A300A94295 /* DLTabBarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DLTabBarView.h; sourceTree = "<group>"; };
 		B546EE72178686A300A94295 /* DLTabBarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DLTabBarView.m; sourceTree = "<group>"; };
+		B546EE7617868A0F00A94295 /* tabbutton1_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton1_pressed.png; path = image/tabbutton1_pressed.png; sourceTree = "<group>"; };
+		B546EE7717868A0F00A94295 /* tabbutton1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton1.png; path = image/tabbutton1.png; sourceTree = "<group>"; };
+		B546EE7817868A0F00A94295 /* tabbutton2_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton2_pressed.png; path = image/tabbutton2_pressed.png; sourceTree = "<group>"; };
+		B546EE7917868A0F00A94295 /* tabbutton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton2.png; path = image/tabbutton2.png; sourceTree = "<group>"; };
+		B546EE7A17868A0F00A94295 /* tabbutton3_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton3_pressed.png; path = image/tabbutton3_pressed.png; sourceTree = "<group>"; };
+		B546EE7B17868A0F00A94295 /* tabbutton3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton3.png; path = image/tabbutton3.png; sourceTree = "<group>"; };
+		B546EE7C17868A0F00A94295 /* tabbutton4_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton4_pressed.png; path = image/tabbutton4_pressed.png; sourceTree = "<group>"; };
+		B546EE7D17868A0F00A94295 /* tabbutton4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton4.png; path = image/tabbutton4.png; sourceTree = "<group>"; };
+		B546EE7E17868A0F00A94295 /* tabbutton5_pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton5_pressed.png; path = image/tabbutton5_pressed.png; sourceTree = "<group>"; };
+		B546EE7F17868A0F00A94295 /* tabbutton5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbutton5.png; path = image/tabbutton5.png; sourceTree = "<group>"; };
+		B546EE8A17868A2700A94295 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		B546EE8B17868A2700A94295 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		B546EE8D17869BB100A94295 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		B546EE8E17869BB100A94295 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		B546EE8F17869BB100A94295 /* FirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstViewController.xib; sourceTree = "<group>"; };
+		B546EE9217869BBE00A94295 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		B546EE9317869BBE00A94295 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		B546EE9417869BBE00A94295 /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		B546EE9717869BC700A94295 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		B546EE9817869BC700A94295 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		B546EE9917869BC700A94295 /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		B546EE9C17869BD000A94295 /* ForthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForthViewController.h; sourceTree = "<group>"; };
+		B546EE9D17869BD000A94295 /* ForthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForthViewController.m; sourceTree = "<group>"; };
+		B546EE9E17869BD000A94295 /* ForthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ForthViewController.xib; sourceTree = "<group>"; };
+		B546EEA117869BD600A94295 /* FifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthViewController.h; sourceTree = "<group>"; };
+		B546EEA217869BD600A94295 /* FifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthViewController.m; sourceTree = "<group>"; };
+		B546EEA317869BD600A94295 /* FifthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FifthViewController.xib; sourceTree = "<group>"; };
+		B546EEA61786A21700A94295 /* define.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = define.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,10 +106,8 @@
 		B546EE451786857E00A94295 = {
 			isa = PBXGroup;
 			children = (
-				B546EE71178686A300A94295 /* DLTabBarView.h */,
-				B546EE72178686A300A94295 /* DLTabBarView.m */,
-				B546EE6E1786868400A94295 /* DLTabBarController.h */,
-				B546EE6F1786868400A94295 /* DLTabBarController.m */,
+				B546EE75178689FB00A94295 /* DLTabBarController */,
+				B546EE74178689F600A94295 /* image */,
 				B546EE571786857F00A94295 /* DLTabBarControllerDemo */,
 				B546EE501786857F00A94295 /* Frameworks */,
 				B546EE4F1786857F00A94295 /* Products */,
@@ -90,6 +137,23 @@
 			children = (
 				B546EE601786857F00A94295 /* DLAppDelegate.h */,
 				B546EE611786857F00A94295 /* DLAppDelegate.m */,
+				B546EE8A17868A2700A94295 /* RootViewController.h */,
+				B546EE8B17868A2700A94295 /* RootViewController.m */,
+				B546EE8D17869BB100A94295 /* FirstViewController.h */,
+				B546EE8E17869BB100A94295 /* FirstViewController.m */,
+				B546EE8F17869BB100A94295 /* FirstViewController.xib */,
+				B546EE9217869BBE00A94295 /* SecondViewController.h */,
+				B546EE9317869BBE00A94295 /* SecondViewController.m */,
+				B546EE9417869BBE00A94295 /* SecondViewController.xib */,
+				B546EE9717869BC700A94295 /* ThirdViewController.h */,
+				B546EE9817869BC700A94295 /* ThirdViewController.m */,
+				B546EE9917869BC700A94295 /* ThirdViewController.xib */,
+				B546EEA117869BD600A94295 /* FifthViewController.h */,
+				B546EEA217869BD600A94295 /* FifthViewController.m */,
+				B546EEA317869BD600A94295 /* FifthViewController.xib */,
+				B546EE9C17869BD000A94295 /* ForthViewController.h */,
+				B546EE9D17869BD000A94295 /* ForthViewController.m */,
+				B546EE9E17869BD000A94295 /* ForthViewController.xib */,
 				B546EE581786857F00A94295 /* Supporting Files */,
 			);
 			path = DLTabBarControllerDemo;
@@ -107,6 +171,35 @@
 				B546EE671786857F00A94295 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B546EE74178689F600A94295 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				B546EE7617868A0F00A94295 /* tabbutton1_pressed.png */,
+				B546EE7717868A0F00A94295 /* tabbutton1.png */,
+				B546EE7817868A0F00A94295 /* tabbutton2_pressed.png */,
+				B546EE7917868A0F00A94295 /* tabbutton2.png */,
+				B546EE7A17868A0F00A94295 /* tabbutton3_pressed.png */,
+				B546EE7B17868A0F00A94295 /* tabbutton3.png */,
+				B546EE7C17868A0F00A94295 /* tabbutton4_pressed.png */,
+				B546EE7D17868A0F00A94295 /* tabbutton4.png */,
+				B546EE7E17868A0F00A94295 /* tabbutton5_pressed.png */,
+				B546EE7F17868A0F00A94295 /* tabbutton5.png */,
+			);
+			name = image;
+			sourceTree = "<group>";
+		};
+		B546EE75178689FB00A94295 /* DLTabBarController */ = {
+			isa = PBXGroup;
+			children = (
+				B546EEA61786A21700A94295 /* define.h */,
+				B546EE71178686A300A94295 /* DLTabBarView.h */,
+				B546EE72178686A300A94295 /* DLTabBarView.m */,
+				B546EE6E1786868400A94295 /* DLTabBarController.h */,
+				B546EE6F1786868400A94295 /* DLTabBarController.m */,
+			);
+			name = DLTabBarController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,6 +258,21 @@
 				B546EE641786857F00A94295 /* Default.png in Resources */,
 				B546EE661786857F00A94295 /* Default@2x.png in Resources */,
 				B546EE681786857F00A94295 /* Default-568h@2x.png in Resources */,
+				B546EE8017868A0F00A94295 /* tabbutton1_pressed.png in Resources */,
+				B546EE8117868A0F00A94295 /* tabbutton1.png in Resources */,
+				B546EE8217868A0F00A94295 /* tabbutton2_pressed.png in Resources */,
+				B546EE8317868A0F00A94295 /* tabbutton2.png in Resources */,
+				B546EE8417868A0F00A94295 /* tabbutton3_pressed.png in Resources */,
+				B546EE8517868A0F00A94295 /* tabbutton3.png in Resources */,
+				B546EE8617868A0F00A94295 /* tabbutton4_pressed.png in Resources */,
+				B546EE8717868A0F00A94295 /* tabbutton4.png in Resources */,
+				B546EE8817868A0F00A94295 /* tabbutton5_pressed.png in Resources */,
+				B546EE8917868A0F00A94295 /* tabbutton5.png in Resources */,
+				B546EE9117869BB100A94295 /* FirstViewController.xib in Resources */,
+				B546EE9617869BBE00A94295 /* SecondViewController.xib in Resources */,
+				B546EE9B17869BC700A94295 /* ThirdViewController.xib in Resources */,
+				B546EEA017869BD000A94295 /* ForthViewController.xib in Resources */,
+				B546EEA517869BD600A94295 /* FifthViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,6 +287,12 @@
 				B546EE621786857F00A94295 /* DLAppDelegate.m in Sources */,
 				B546EE701786868400A94295 /* DLTabBarController.m in Sources */,
 				B546EE73178686A300A94295 /* DLTabBarView.m in Sources */,
+				B546EE8C17868A2700A94295 /* RootViewController.m in Sources */,
+				B546EE9017869BB100A94295 /* FirstViewController.m in Sources */,
+				B546EE9517869BBE00A94295 /* SecondViewController.m in Sources */,
+				B546EE9A17869BC700A94295 /* ThirdViewController.m in Sources */,
+				B546EE9F17869BD000A94295 /* ForthViewController.m in Sources */,
+				B546EEA417869BD600A94295 /* FifthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

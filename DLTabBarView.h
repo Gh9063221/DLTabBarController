@@ -8,6 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
+@protocol TabBarViewDelegate <NSObject>
+
+- (void)tabWasSelected:(NSInteger)index;
+
+@end
+
 @interface DLTabBarView : UIView
+
+@property (assign, nonatomic) id<TabBarViewDelegate> delegate;
+@property (retain, nonatomic) UIButton *selectedButton;
 
 @end

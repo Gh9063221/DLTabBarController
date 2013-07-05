@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DLTabBarView.h"
 
-@interface DLTabBarController : UITabBarController
+@interface DLTabBarController : UITabBarController <TabBarViewDelegate>
+
+@property (retain, nonatomic) DLTabBarView *tBV;
 
 @end
